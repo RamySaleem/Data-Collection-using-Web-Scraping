@@ -4,7 +4,7 @@ Datasets are essential for all scientists to conduct research, especially coders
 
 1.	USGS web scraping:  
 
-In this project, I have explored all the seismic data surveys available on the USGS website and contributed by providing 600 seismic surveys in SEGY format, ready to download with all the necessary navigation metadata.
+In this project, I have explored all the seismic data surveys available on the USGS website (https://www.usgs.gov/science-explorer-results?es=3D+Seismic+data&classification=data) and contributed by providing 600 seismic surveys in SEGY format, ready to download with all the necessary navigation metadata.
 
 2.	VSA web scraping:  
 
