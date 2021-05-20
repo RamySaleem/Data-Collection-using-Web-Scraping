@@ -2,6 +2,8 @@
 
 Datasets are essential for all scientists to conduct research, especially coders geoscientists. Research is an inquiry-based process that includes recognising a question, gathering data, analysing and evaluating results, drawing conclusions, and sharing the knowledge gained. The ability to conduct research mainly depends on the datasets. There are massive open-source data available online. However, it is often challenging for students and researchers to navigate the datasets, collect the data and download it. Because mainly data discoverability is poor, documentation is sometimes lacking, and licences can be confusing. I hope with these two projects to add toward the solution of these problems.
 
+I this sense, I have conducted two web scraping projects:
+
 1.	USGS web scraping:  
 
 In this project, I have explored all the seismic data surveys available on the USGS website (https://www.usgs.gov/science-explorer-results?es=3D+Seismic+data&classification=data) and contributed by providing 600 seismic surveys in SEGY format, ready to download with all the necessary navigation metadata.
