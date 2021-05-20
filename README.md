@@ -14,4 +14,6 @@ For more information about the machine learning work, please see our abstract @ 
 
 
 Results:
+
+
 The 600 seismic surveys will be available in the excel attached file, and the seismic images dataset will be attached to our machine learning project.
